@@ -22,7 +22,7 @@ This is a simple game built using Python's `turtle` module where a player contro
    ```bash
    git clone https://github.com/Pooja389/turtle-hurdle-race.git
 2. Navigate to directory
-3. ```bash
+   ```bash
    cd turtle-hurdle-game
 4. Run the game
    ```bash
