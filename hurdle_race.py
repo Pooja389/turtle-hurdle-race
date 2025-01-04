@@ -48,7 +48,7 @@ while game_on:
         create_hurdle()
     game_on = move_hurdle()    
     if game_on == False:
-        if player.xcor() > 190:
+        if player.ycor() > 190:
             screen.textinput(title= f"game finished",prompt = f"You won, type and press 'ok'")
         else:
             screen.textinput(title= f"game over",prompt = f"You lose, type and press 'ok'")
